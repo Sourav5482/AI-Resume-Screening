@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Local data and uploaded resumes
+resume.*
+*.pdf
+*.docx
+*.doc
+*.rtf
+
+# IDE/editor cruft
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
